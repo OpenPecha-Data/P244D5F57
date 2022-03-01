@@ -1,0 +1,104 @@
+id: 0d12664d4e514b99b069bcd7a838f839
+annotation_type: Segment
+revision: '00001'
+annotations:
+  83f3b2c85730427e97fe236e3008a158:
+    span:
+      start: 0
+      end: 94
+    metadata: {}
+  b9e18b9f523c4792a3e16fb089ba5419:
+    span:
+      start: 97
+      end: 191
+    metadata: {}
+  18fd04171e114250a106559ebc8c1619:
+    span:
+      start: 194
+      end: 291
+    metadata: {}
+  a8767df4c95540ffa802d48bc65fce05:
+    span:
+      start: 294
+      end: 394
+    metadata: {}
+  b35c7b39c1c846e6a61dbaf441652d9a:
+    span:
+      start: 397
+      end: 498
+    metadata: {}
+  57d9e59591704405a002587fc572b01a:
+    span:
+      start: 501
+      end: 601
+    metadata: {}
+  b9f217dbad9145c5a2dfdcd03a32b108:
+    span:
+      start: 604
+      end: 698
+    metadata: {}
+  be83c0c2fa4246878aff7e18a5af57b2:
+    span:
+      start: 701
+      end: 802
+    metadata: {}
+  bc4408a1a9664710a45946c64bd91c09:
+    span:
+      start: 805
+      end: 902
+    metadata: {}
+  791a81191c984eb9a0e5f49d345bd765:
+    span:
+      start: 905
+      end: 997
+    metadata: {}
+  e1fce15307af420da5a1eaf8448b03e8:
+    span:
+      start: 1000
+      end: 1098
+    metadata: {}
+  378a616690014070bce440f0b73e3b44:
+    span:
+      start: 1101
+      end: 1202
+    metadata: {}
+  979df20af8e141279e979f213470cf74:
+    span:
+      start: 1205
+      end: 1297
+    metadata: {}
+  1977bd273cab4050b3ebe7782df680a9:
+    span:
+      start: 1300
+      end: 1396
+    metadata: {}
+  d55a5fddd5b7407983c7c171a470b255:
+    span:
+      start: 1399
+      end: 1497
+    metadata: {}
+  1da9fbc732e6471b8f6120f453633c5f:
+    span:
+      start: 1500
+      end: 1590
+    metadata: {}
+  e958e30dcfb8475f806bf929a1d49d1f:
+    span:
+      start: 1593
+      end: 1687
+    metadata: {}
+  2db73b3ec4b746188b1223f08ab477a8:
+    span:
+      start: 1690
+      end: 1787
+    metadata: {}
+  af22f76af16445bd8c8eca826b4fe1ce:
+    span:
+      start: 1790
+      end: 1911
+    metadata: {}
+  99c29dd05f984c6c9b4fcba7f407c28f:
+    span:
+      start: 1914
+      end: 2006
+    metadata: {}

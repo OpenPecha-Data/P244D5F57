@@ -1,0 +1,104 @@
+id: 995967b419f44aab85b6fca2367ea2e3
+annotation_type: Segment
+revision: '00001'
+annotations:
+  e9a147c9909442cabded1630bedd3f9c:
+    span:
+      start: 0
+      end: 194
+    metadata: {}
+  d5e48bfaf3b3419ebec110ad7640f041:
+    span:
+      start: 197
+      end: 293
+    metadata: {}
+  72ed9eeeb1014c789a45dbe2b2398e05:
+    span:
+      start: 296
+      end: 387
+    metadata: {}
+  5b7221240af14abbbe0a04c4f96c0e87:
+    span:
+      start: 390
+      end: 491
+    metadata: {}
+  518002e172a844908791940def82b58b:
+    span:
+      start: 494
+      end: 595
+    metadata: {}
+  ec97b8b4dcdc41e59b100db5126c25c3:
+    span:
+      start: 598
+      end: 700
+    metadata: {}
+  a94ddd51c3b046ee9041fb084cc71caf:
+    span:
+      start: 703
+      end: 806
+    metadata: {}
+  1d122c5b43614457a19345edfb124e58:
+    span:
+      start: 809
+      end: 914
+    metadata: {}
+  0896865c00ce4600bd04969015c420c3:
+    span:
+      start: 917
+      end: 1015
+    metadata: {}
+  3fac4768e3244fc89e4bf260e7af35da:
+    span:
+      start: 1018
+      end: 1119
+    metadata: {}
+  9ab72d62a2e044d7a12b01f065af0cbd:
+    span:
+      start: 1122
+      end: 1217
+    metadata: {}
+  694f0a246d4f4326aeb673326a024c06:
+    span:
+      start: 1220
+      end: 1309
+    metadata: {}
+  dc3edc524b4343cc98428de36db77f74:
+    span:
+      start: 1312
+      end: 1405
+    metadata: {}
+  259f956056c140f6bf3eafaea43aab4a:
+    span:
+      start: 1408
+      end: 1510
+    metadata: {}
+  5fef4c52715f421bad82884b21d1b94f:
+    span:
+      start: 1513
+      end: 1607
+    metadata: {}
+  d0a56703d1cd46c7aab8805fd255ea50:
+    span:
+      start: 1610
+      end: 1704
+    metadata: {}
+  54bf0c8619e642ab983a4f94e7246bdc:
+    span:
+      start: 1707
+      end: 1803
+    metadata: {}
+  74f2167c7f234f929e93edd06d303475:
+    span:
+      start: 1806
+      end: 1901
+    metadata: {}
+  c8ad29e7add24c10b2b19c072a64fda0:
+    span:
+      start: 1904
+      end: 2001
+    metadata: {}
+  e5f4fe6adcfc486480328dcc2813c940:
+    span:
+      start: 2004
+      end: 2103
+    metadata: {}

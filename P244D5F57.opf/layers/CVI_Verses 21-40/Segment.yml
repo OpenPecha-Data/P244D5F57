@@ -1,0 +1,104 @@
+id: b57044dd121249e8abd556da13ab1d9f
+annotation_type: Segment
+revision: '00001'
+annotations:
+  bc886dc953f341e29b483a6138e9e1e6:
+    span:
+      start: 0
+      end: 100
+    metadata: {}
+  923da20a8bba442581ee1f0d97170198:
+    span:
+      start: 103
+      end: 196
+    metadata: {}
+  541fab2414134c7a9ea379ef34dedae4:
+    span:
+      start: 199
+      end: 293
+    metadata: {}
+  6c1e0bcce1c648f2997f048a1e3d081a:
+    span:
+      start: 296
+      end: 396
+    metadata: {}
+  9f09298a47e74f2988a3962687ae740d:
+    span:
+      start: 399
+      end: 497
+    metadata: {}
+  13b67fdd45bc4958961dabbdc57d2230:
+    span:
+      start: 500
+      end: 589
+    metadata: {}
+  027bae1f0c934301895b7c023e720f38:
+    span:
+      start: 592
+      end: 689
+    metadata: {}
+  3f028329559a4995869f8ac00b7a080a:
+    span:
+      start: 692
+      end: 789
+    metadata: {}
+  6e67cedfb74b4c9f801c8d3cca2bf4b7:
+    span:
+      start: 792
+      end: 892
+    metadata: {}
+  c3a8c4e0c7c34f44b8e8a1afa1031ff1:
+    span:
+      start: 895
+      end: 997
+    metadata: {}
+  bdb1b4017e0947f0ad8ac0153880a518:
+    span:
+      start: 1000
+      end: 1096
+    metadata: {}
+  4d273196c7274742b3211b61d5e536cb:
+    span:
+      start: 1099
+      end: 1196
+    metadata: {}
+  f306dd50b06f4754979912e8e6c32d14:
+    span:
+      start: 1199
+      end: 1300
+    metadata: {}
+  21214601c8c4460690781b8ca1cfe4ae:
+    span:
+      start: 1303
+      end: 1409
+    metadata: {}
+  5a2261057ac84919a05d3ac35adf48fb:
+    span:
+      start: 1412
+      end: 1509
+    metadata: {}
+  91b2237cf9cc4196979bd7523c1453fb:
+    span:
+      start: 1512
+      end: 1606
+    metadata: {}
+  3bf77518e8884d00a22470a668aaf184:
+    span:
+      start: 1609
+      end: 1710
+    metadata: {}
+  a81004dc10214e9a9985f8add6832a8c:
+    span:
+      start: 1713
+      end: 1810
+    metadata: {}
+  1ef58d3f00db47abb25ec7ddd1fa1301:
+    span:
+      start: 1813
+      end: 1903
+    metadata: {}
+  ae7c250596354aaab910753bafb95002:
+    span:
+      start: 1906
+      end: 2004
+    metadata: {}

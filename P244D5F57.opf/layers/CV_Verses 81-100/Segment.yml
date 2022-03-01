@@ -1,0 +1,104 @@
+id: c357979a6f654abe8b78cf39d709725a
+annotation_type: Segment
+revision: '00001'
+annotations:
+  e47231f7d2194ab682ba411fae8b0ebf:
+    span:
+      start: 0
+      end: 97
+    metadata: {}
+  5d731ef31c9740029153b895775a1885:
+    span:
+      start: 100
+      end: 196
+    metadata: {}
+  a5a3dc7135004817a71f04c1bab4d99a:
+    span:
+      start: 199
+      end: 294
+    metadata: {}
+  f995b48efa2f4b099e8a5fe1835d6af6:
+    span:
+      start: 297
+      end: 397
+    metadata: {}
+  59278f4cdcfa4df2bd84e7ddeb97c2cc:
+    span:
+      start: 400
+      end: 497
+    metadata: {}
+  4953053c191a4563b8d18ea5729082a4:
+    span:
+      start: 500
+      end: 592
+    metadata: {}
+  a358a35053094ae18395d2d3d792d4d5:
+    span:
+      start: 595
+      end: 691
+    metadata: {}
+  c44df3f173454e978f5853b25c1cd094:
+    span:
+      start: 694
+      end: 793
+    metadata: {}
+  9ad9be72220a4a8ca699bcbb3ebaf333:
+    span:
+      start: 796
+      end: 890
+    metadata: {}
+  20becb1a25d04b6d9a879befe0f0ca3b:
+    span:
+      start: 893
+      end: 991
+    metadata: {}
+  807478ffa3cc4600b03a704bc25b6f70:
+    span:
+      start: 994
+      end: 1093
+    metadata: {}
+  dd2704b2c6b04b05b4d224806a4c2d76:
+    span:
+      start: 1096
+      end: 1191
+    metadata: {}
+  2db5dc1011eb4d82b5a5b4fc3bf276fc:
+    span:
+      start: 1194
+      end: 1293
+    metadata: {}
+  37a603a25ac8422c83f8a997341a4ced:
+    span:
+      start: 1296
+      end: 1391
+    metadata: {}
+  267a3a6b75d34639823703b7003cf79f:
+    span:
+      start: 1394
+      end: 1494
+    metadata: {}
+  e41d652b18ef4a61a68b62f5ac0bfd1b:
+    span:
+      start: 1497
+      end: 1592
+    metadata: {}
+  728c3b574a414ab8befa03ba78cc7c9d:
+    span:
+      start: 1595
+      end: 1682
+    metadata: {}
+  ec502f36c18a43958a690094b454c66b:
+    span:
+      start: 1685
+      end: 1784
+    metadata: {}
+  ca2d99a189374f278b67e4988e8dbc87:
+    span:
+      start: 1787
+      end: 1888
+    metadata: {}
+  9fa53cc2f5524103aefc6e530bcdccd6:
+    span:
+      start: 1891
+      end: 1997
+    metadata: {}

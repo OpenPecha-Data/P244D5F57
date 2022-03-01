@@ -1,0 +1,104 @@
+id: 9f37e9c3ee4449f8a3f463747c402258
+annotation_type: Segment
+revision: '00001'
+annotations:
+  2450917b8c6d4af892536f690a2285fb:
+    span:
+      start: 0
+      end: 92
+    metadata: {}
+  16b64d91ab724cf2ad099b1e856d4bc2:
+    span:
+      start: 95
+      end: 203
+    metadata: {}
+  3fef7c4b16604ca3b82459736eba1b63:
+    span:
+      start: 206
+      end: 300
+    metadata: {}
+  143a625ca20043678f7eaab628183877:
+    span:
+      start: 303
+      end: 400
+    metadata: {}
+  3ce253a2635e4e6b9b37084b81530f4e:
+    span:
+      start: 403
+      end: 499
+    metadata: {}
+  f0de87f3d4184bc5b929865275670678:
+    span:
+      start: 502
+      end: 603
+    metadata: {}
+  f9138ff10de844b4b23a8d62aa05f5fe:
+    span:
+      start: 606
+      end: 704
+    metadata: {}
+  6804c7cf8c0c494597920cbeb234da4d:
+    span:
+      start: 707
+      end: 802
+    metadata: {}
+  214e267782784b56949324485e1c3c13:
+    span:
+      start: 805
+      end: 902
+    metadata: {}
+  bfdcbff25d344ced97c110077340fa15:
+    span:
+      start: 905
+      end: 1014
+    metadata: {}
+  193f1c5771604dd49b8607b1223be053:
+    span:
+      start: 1017
+      end: 1104
+    metadata: {}
+  649c74d1fb56471d91eefb2ab53c36a9:
+    span:
+      start: 1107
+      end: 1206
+    metadata: {}
+  5936d21eb065499b929216e23cfbefa3:
+    span:
+      start: 1209
+      end: 1312
+    metadata: {}
+  819724f5533b4107b9b6af7ca4ffa5be:
+    span:
+      start: 1315
+      end: 1406
+    metadata: {}
+  af27b61cbc9d41ae96ef5621927303dd:
+    span:
+      start: 1409
+      end: 1504
+    metadata: {}
+  45153372a52141bc8cbedc590037f5ca:
+    span:
+      start: 1507
+      end: 1606
+    metadata: {}
+  b38e8812fafd46dd9ee8b41f05deea76:
+    span:
+      start: 1609
+      end: 1709
+    metadata: {}
+  9ad6b9ec3b604dedad4612f22a024317:
+    span:
+      start: 1712
+      end: 1812
+    metadata: {}
+  303b4f3259d34b24a021dbbfd94726b9:
+    span:
+      start: 1815
+      end: 1916
+    metadata: {}
+  5f38410fbc9f436aaebce22bce339512:
+    span:
+      start: 1919
+      end: 2021
+    metadata: {}
